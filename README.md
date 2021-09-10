@@ -1,0 +1,2 @@
+# netphinsher
+Pkg install git
